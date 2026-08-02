@@ -1,5 +1,7 @@
 # club-site-generator-core
 
+The core for all the sites created using the site generator.
+
 The shared static-site generator engine behind every club's website. This repo
 contains **no club data** — `build.js`, the JSON schema, and the HTML/CSS
 templates only. Each club's actual content (`club.json`, `images/`) lives in
